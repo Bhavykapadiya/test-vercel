@@ -2,7 +2,7 @@
   "name": "chromium-vercel-demo",
   "version": "1.0.0",
   "dependencies": {
-    "@sparticuz/chromium": "^138.0.1",
+    "@sparticuz/chromium": "133.0.0",
     "@sparticuz/chromium-min": "^138.0.1",
     "puppeteer-core": "^24.14.0"
   },
