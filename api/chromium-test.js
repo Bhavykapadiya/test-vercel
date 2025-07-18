@@ -1,5 +1,5 @@
 const puppeteer = require('puppeteer-core');
-const chromium = require('@sparticuz/chromium');
+const chromium = require('@sparticuz/chromium-min');
 
 module.exports = async (req, res) => {
   console.log('chromium.executablePath:', await chromium.executablePath());
